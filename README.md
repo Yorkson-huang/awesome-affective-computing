@@ -24,16 +24,17 @@ This repository is a curated collection of research papers, datasets, and toolki
 ---
 
 ## 📑 Table of Contents
-- [📚 Surveys & Reviews](#surveys--reviews)
-- [📊 Datasets and Benchmarks](#datasets-and-benchmarks)
-- [🧠 Multimodal Emotion Recognition (MER) & Perception](#multimodal-emotion-recognition-mer--perception)
-- [🔍 Emotion Understanding & Reasoning](#emotion-understanding--reasoning)
-- [🤖 Emotional Intelligence in Large Models (LLM/MLLM/ALLM)](#emotional-intelligence-in-large-models-llmmllmallm)
-- [🗣️ Affective Generation & Synthesis](#affective-generation--synthesis)
-- [🛠️ Toolkits & Challenges](#toolkits--challenges)
+- [📚 Surveys & Reviews](#surveys-reviews)
+- [📊 Datasets and Benchmarks](#datasets-benchmarks)
+- [🧠 Multimodal Emotion Recognition (MER) & Perception](#mer-perception)
+- [🔍 Emotion Understanding & Reasoning](#emotion-understanding)
+- [🤖 Emotional Intelligence in Large Models (LLM/MLLM/ALLM)](#emotional-intelligence)
+- [🗣️ Affective Generation & Synthesis](#affective-generation)
+- [🛠️ Toolkits & Challenges](#toolkits-challenges)
 
 ---
 
+<a id="surveys-reviews"></a>
 ## 📚 Surveys & Reviews
 
 - [Arxiv 2025.12] **Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity** | [[Paper](https://arxiv.org/pdf/2512.10882v1)]
@@ -55,6 +56,7 @@ This repository is a curated collection of research papers, datasets, and toolki
 
 ---
 
+<a id="datasets-benchmarks"></a>
 ## 📊 Datasets and Benchmarks
 
 ### 📁 Datasets
@@ -108,6 +110,7 @@ This repository is a curated collection of research papers, datasets, and toolki
 | [ECCV 2024] | **Affective Visual Dialog** | Large-Scale Benchmark for Emotional Reasoning (2023.08) | [[Paper](https://arxiv.org/pdf/2308.16349)] [[Code](https://affective-visual-dialog.github.io/)] |
 ---
 
+<a id="mer-perception"></a>
 ## 🧠 Multimodal Emotion Recognition (MER) & Perception
 
 ### MER & MSA (Signal-based Fusion)
@@ -159,6 +162,7 @@ This repository is a curated collection of research papers, datasets, and toolki
 
 ---
 
+<a id="emotion-understanding"></a>
 ## 🔍 Emotion Understanding & Reasoning
 
 - [Arxiv 2026.01] **EC2ER: From Emotion Classification to Emotional Reasoning in LLMs** | [[Paper](https://arxiv.org/pdf/2601.01407v1)] [[Code](https://github.com/kernelism/EC2ER)]
@@ -180,6 +184,7 @@ This repository is a curated collection of research papers, datasets, and toolki
 
 ---
 
+<a id="emotional-intelligence"></a>
 ## 🤖 Emotional Intelligence in Large Models (LLM/MLLM/ALLM)
 
 ### MLLM / Omni-modal Models (Vision+Audio+Text)
@@ -230,6 +235,7 @@ This repository is a curated collection of research papers, datasets, and toolki
 
 ---
 
+<a id="affective-generation"></a>
 ## 🗣️ Affective Generation & Synthesis
 
 - [ICMR 2025] **EmoHuman: Fine-Grained Emotion-Controlled Talking Head Generation** | [[Paper](https://dl.acm.org/doi/epdf/10.1145/3731715.3733322)]
@@ -239,6 +245,7 @@ This repository is a curated collection of research papers, datasets, and toolki
 
 ---
 
+<a id="toolkits-challenges"></a>
 ## 🛠️ Toolkits & Challenges
 
 - **MultiBench** | Standardized Toolkit for Multimodal Deep Learning. [[Paper](https://jmlr.org/papers/v24/22-1021.html)] [[Code](https://github.com/pliang279/MultiBench)]
