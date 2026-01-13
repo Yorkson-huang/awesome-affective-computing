@@ -62,7 +62,7 @@ This repository is a curated collection of research papers, datasets, and toolki
 
 | Source | Dataset Name | Description / Modality | Links |
 | :--- | :--- | :--- | :--- |
-| [AAAI 2026] | **EmoVid** | Multimodal Emotion Video Dataset for Video Generation | [[Paper](https://arxiv.org/pdf/2511.11002)] [[Project](https://zane-zyqiu.github.io/EmoVid/)] |
+| [AAAI 2026] | **EmoVid** | Multimodal Emotion Video Dataset for Video Generation | [[Paper](https://arxiv.org/pdf/2511.11002)] [[Code](https://zane-zyqiu.github.io/EmoVid/)] |
 | [Arxiv 2025.12] | **Smile Face, Sad Eyes** | Multimodal Dataset of Eye and Facial Behaviors | [[Paper](https://arxiv.org/abs/2512.16485v1)] [[Code](https://anonymous.4open.science/r/EMER-database)] |
 | [Arxiv 2025.11] | **EM2LDL** | Multilingual Speech Corpus for Mixed Emotion Recognition | [[Paper](https://arxiv.org/abs/2511.20106v1)] [[Code](https://github.com/xingfengli/EM2LDL)] |
 | [Arxiv 2025.11] | **RF-Behavior** | Multimodal Radio-Frequency Dataset for Emotion Analysis | [[Paper](https://arxiv.org/pdf/2511.06020v1)] |
@@ -77,17 +77,17 @@ This repository is a curated collection of research papers, datasets, and toolki
 | [TVCG 2023] | **HEADSET** | Human Emotion Awareness under Partial Occlusions | [[Paper](https://ieeexplore.ieee.org/document/10269730)] |
 | [TPAMI 2023] | **EgoCom** | Multi-Person Multimodal Egocentric Communications Dataset | [[Paper](https://ieeexplore.ieee.org/document/9200754)] |
 | [TPAMI 2023] | **CAS(ME)3** | Spontaneous Micro-Expression Database with Depth Information | [[Paper](https://doi.org/10.1109/TPAMI.2022.3174895)] |
-| [Arxiv 2022.09] | **CH-SIMS v2.0** | Chinese Single- and Multi-modal Sentiment Dataset | [[Paper](https://arxiv.org/pdf/2209.02604)] [[Project](https://github.com/thuiar/ch-sims-v2)] |
+| [Arxiv 2022.09] | **CH-SIMS v2.0** | Chinese Single- and Multi-modal Sentiment Dataset | [[Paper](https://arxiv.org/pdf/2209.02604)] [[Code](https://github.com/thuiar/ch-sims-v2)] |
 | [Arxiv 2022.05] | **M3ED** | Multi-modal Multi-scene Multi-label Emotional Dialogue | [[Paper](https://arxiv.org/abs/2205.10237)] |
-| [2020] | **CH-SIMS** | Chinese Single- and Multi-modal Sentiment Dataset | [[Paper](https://aclanthology.org/2020.acl-main.343/)] [[Project](https://github.com/thuiar/MMSA)] |
-| [2019] | **MUStARD** | Multimodal Utterances for Sarcasm and Irony | [[Paper](https://aclanthology.org/P19-1455/)] [[Project](https://github.com/Himanshu-sudo/MUStARD-dataset)] |
+| [2020] | **CH-SIMS** | Chinese Single- and Multi-modal Sentiment Dataset | [[Paper](https://aclanthology.org/2020.acl-main.343/)] [[Code](https://github.com/thuiar/MMSA)] |
+| [2019] | **MUStARD** | Multimodal Utterances for Sarcasm and Irony | [[Paper](https://aclanthology.org/P19-1455/)] [[Code](https://github.com/Himanshu-sudo/MUStARD-dataset)] |
 | [2018] | **CMU-MOSEI** | Large-scale Dataset for Sentiment and Emotion Intensity | [[Dataset](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/)] |
 | [2018] | **MELD** | Multimodal EmotionLines Dataset (Friends TV show) | [[Paper](https://arxiv.org/pdf/1810.02508)] [[Code](https://github.com/declare-lab/MELD)] |
-| [2018] | **PMEmo** | Music Emotion Recognition with Physiological Signals | [[Paper](https://dl.acm.org/doi/10.1145/3206025.3206037)] [[Project](https://github.com/HuiZhangDB/PMEmo)] |
-| [2017] | **SEED-IV** | EEG Dataset for Emotion Recognition (SJTU) | [[Project](https://bcmi.sjtu.edu.cn/~seed/seed.html)] |
-| [2015] | **SEED** | EEG Dataset for Emotion Recognition (SJTU) | [[Project](https://bcmi.sjtu.edu.cn/~seed/seed.html)] |
+| [2018] | **PMEmo** | Music Emotion Recognition with Physiological Signals | [[Paper](https://dl.acm.org/doi/10.1145/3206025.3206037)] [[Code](https://github.com/HuiZhangDB/PMEmo)] |
+| [2017] | **SEED-IV** | EEG Dataset for Emotion Recognition (SJTU) | [[Code](https://bcmi.sjtu.edu.cn/~seed/seed.html)] |
+| [2015] | **SEED** | EEG Dataset for Emotion Recognition (SJTU) | [[Code](https://bcmi.sjtu.edu.cn/~seed/seed.html)] |
 | [2011] | **DEAP** | Dataset for Emotion Analysis using Physiological signals | [[Paper](https://ieeexplore.ieee.org/document/5871728)] |
-| [2008] | **IEMOCAP** | Interactive Emotional Dyadic Motion Capture | [[Project](https://sail.usc.edu/iemocap/)] |
+| [2008] | **IEMOCAP** | Interactive Emotional Dyadic Motion Capture | [[Code](https://sail.usc.edu/iemocap/)] |
 
 ### ⚖️ Benchmarks
 *Holistic evaluation benchmarks for LLMs, MLLMs, and Emotional Reasoning.*
@@ -96,16 +96,16 @@ This repository is a curated collection of research papers, datasets, and toolki
 | :--- | :--- | :--- | :--- |
 | [Arxiv 2025.10] | **AV-EMO-Reasoning** | Emotional Reasoning in Omni-modal LLMs with Audio-visual Cues | [[Paper](https://arxiv.org/pdf/2510.07355v1)] |
 | [Arxiv 2025.10] | **SEER** | The Span-based Emotion Evidence Retrieval Benchmark | [[Paper](https://arxiv.org/pdf/2510.03490v1)] [[Code](https://github.com/chailab-umich/SEER)] |
-| [Arxiv 2025.08] | **MME-Emotion** | A Holistic Evaluation Benchmark for Emotional Intelligence in MLLMs | [[Paper](https://www.arxiv.org/pdf/2508.09210)] [[Project](https://mme-emotion.github.io/)] |
+| [Arxiv 2025.08] | **MME-Emotion** | A Holistic Evaluation Benchmark for Emotional Intelligence in MLLMs | [[Paper](https://www.arxiv.org/pdf/2508.09210)] [[Code](https://mme-emotion.github.io/)] |
 | [Arxiv 2025.08] | **MTMEUR** | A Multi-Turn Multimodal Emotion Understanding and Reasoning Benchmark | [[Paper](https://arxiv.org/pdf/2508.16859v1)] [[Code](https://github.com/MindIntLab-HFUT/MTMEUR)] |
 | [ACL 2025] | **ToMEmoReason** | Emotion Reasoning as a Theory of Mind Benchmark for LLMs | [[Paper](https://arxiv.org/pdf/2506.00334)] [[Code](https://github.com/GerardYeo/ToMEmoReason)] |
 | [Arxiv 2025.05] | **EmotionHallucer** | Evaluating Emotion Hallucinations in MLLMs | [[Paper](https://arxiv.org/pdf/2505.11405v1)] [[Code](https://github.com/xxtars/EmotionHallucer)] |
-| [Arxiv 2025.02] | **EmoBench-M** | Benchmarking Emotional Intelligence for Multimodal LLMs | [[Paper](https://arxiv.org/pdf/2502.04424v1)] [[Project](https://emo-gml.github.io/)] |
-| [ICML 2025] | **EMMA** | An Enhanced MultiModal ReAsoning Benchmark | [[Paper](https://arxiv.org/pdf/2501.05444v1)] [[Project](https://emma-benchmark.github.io/)] |
-| [Arxiv 2024.02] | **EmoBench** | Benchmarking Emotional Intelligence for Large Language Models | [[Paper](https://arxiv.org/pdf/2402.12071)][[Project](https://github.com/Sahandfer/EmoBench)] |
+| [Arxiv 2025.02] | **EmoBench-M** | Benchmarking Emotional Intelligence for Multimodal LLMs | [[Paper](https://arxiv.org/pdf/2502.04424v1)] [[Code](https://emo-gml.github.io/)] |
+| [ICML 2025] | **EMMA** | An Enhanced MultiModal ReAsoning Benchmark | [[Paper](https://arxiv.org/pdf/2501.05444v1)] [[Code](https://emma-benchmark.github.io/)] |
+| [Arxiv 2024.02] | **EmoBench** | Benchmarking Emotional Intelligence for Large Language Models | [[Paper](https://arxiv.org/pdf/2402.12071)][[Code](https://github.com/Sahandfer/EmoBench)] |
 | [Arxiv 2024.01] | **MER-Bench** | A Unified Evaluation Benchmark for Multimodal Emotion Recognition | [[Paper](https://arxiv.org/pdf/2401.03429)] [[Code](https://github.com/zeroQiaoba/MERTools)] |
 | [Arxiv 2023.12] | **EQ-Bench** | A Benchmark for Emotional Intelligence in LLMs | [[Paper](https://arxiv.org/pdf/2312.06281)] [[Leaderboard](https://eqbench.com/)] |
-| [ECCV 2024] | **Affective Visual Dialog** | Large-Scale Benchmark for Emotional Reasoning (2023.08) | [[Paper](https://arxiv.org/pdf/2308.16349)] [[Project](https://affective-visual-dialog.github.io/)] |
+| [ECCV 2024] | **Affective Visual Dialog** | Large-Scale Benchmark for Emotional Reasoning (2023.08) | [[Paper](https://arxiv.org/pdf/2308.16349)] [[Code](https://affective-visual-dialog.github.io/)] |
 ---
 
 ## 🧠 Multimodal Emotion Recognition (MER) & Perception
@@ -183,7 +183,7 @@ This repository is a curated collection of research papers, datasets, and toolki
 ## 🤖 Emotional Intelligence in Large Models (LLM/MLLM/ALLM)
 
 ### MLLM / Omni-modal Models (Vision+Audio+Text)
-- [Arxiv 2025.12] **VidEmo: Affective-Tree Reasoning for Emotion-Centric Video Foundation Models** | [[Paper](https://arxiv.org/pdf/2511.02712v1)] [[Project](https://zzcheng.top/VidEmo)]
+- [Arxiv 2025.12] **VidEmo: Affective-Tree Reasoning for Emotion-Centric Video Foundation Models** | [[Paper](https://arxiv.org/pdf/2511.02712v1)] [[Code](https://zzcheng.top/VidEmo)]
 - [Arxiv 2025.12] **Learning What to Attend First: Modality-Importance-Guided Reasoning** | [[Paper](https://arxiv.org/pdf/2512.02699v1)]
 - [Arxiv 2025.12] **Large Emotional World Model** | [[Paper](https://arxiv.org/pdf/2512.24149v1)]
 - [Arxiv 2025.11] **Learning to Hear by Seeing: VLMs to Understand Artistic Emotion** | [[Paper](https://arxiv.org/pdf/2511.12077v1)]
@@ -204,7 +204,7 @@ This repository is a curated collection of research papers, datasets, and toolki
 
 ### Audio / Speech LLMs (ALLM)
 - [Arxiv 2026.01] **Discovering and Causally Validating Emotion-Sensitive Neurons in Audio-LMs** | [[Paper](https://arxiv.org/pdf/2601.03115v1)]
-- [Arxiv 2025.10] **LISTEN: Do Audio LLMs Really LISTEN, or Just Transcribe?** | [[Paper](https://arxiv.org/pdf/2510.10444v2)] [[Project](https://delijingyic.github.io/LISTEN-website/)]
+- [Arxiv 2025.10] **LISTEN: Do Audio LLMs Really LISTEN, or Just Transcribe?** | [[Paper](https://arxiv.org/pdf/2510.10444v2)] [[Code](https://delijingyic.github.io/LISTEN-website/)]
 - [Arxiv 2025.10] **Semantic Differentiation in Speech ER: Descriptive and Expressive Roles** | [[Paper](https://arxiv.org/abs/2510.03060v1)]
 - [WWW 2025] **Exploring Multimodal Pre-trained Models for Speech Emotion Recognition** | [[Paper](https://dl.acm.org/doi/epdf/10.1145/3701716.3717561)]
 - [Arxiv 2024.09] **Multi-Microphone and Multi-Modal Emotion Recognition in Reverberant Environment** | [[Paper](https://arxiv.org/pdf/2409.09545v3)]
@@ -233,7 +233,7 @@ This repository is a curated collection of research papers, datasets, and toolki
 ## 🗣️ Affective Generation & Synthesis
 
 - [ICMR 2025] **EmoHuman: Fine-Grained Emotion-Controlled Talking Head Generation** | [[Paper](https://dl.acm.org/doi/epdf/10.1145/3731715.3733322)]
-- [Arxiv 2024.09] **Emo-DPO: Controllable Emotional Speech Synthesis via Direct Preference Optimization** | [[Paper](https://arxiv.org/pdf/2409.10157)] [[Project](https://xiaoxue1117.github.io/Emo-tts-dpo/)]
+- [Arxiv 2024.09] **Emo-DPO: Controllable Emotional Speech Synthesis via Direct Preference Optimization** | [[Paper](https://arxiv.org/pdf/2409.10157)] [[Code](https://xiaoxue1117.github.io/Emo-tts-dpo/)]
 - [ECCV 2024] **EMO: Emote Portrait Alive: Generating Expressive Portrait Videos** | [[Paper](https://arxiv.org/pdf/2402.17485)] [[Code](https://github.com/HumanAIGC/EMO)]
 - [SICon 2023] **EECVAE: Eliciting Rich Positive Emotions in Dialogue Generation** | [[Paper](https://aclanthology.org/2023.sicon-1.1.pdf)] [[Code](https://github.com/taolusi/EECVAE)]
 
@@ -245,7 +245,7 @@ This repository is a curated collection of research papers, datasets, and toolki
 - **MERTools** | A Holistic Toolkit for Multimodal Emotion Recognition. [[Code](https://github.com/zeroQiaoba/MERTools)]
 - **OpenFace** | Real-time facial behavior analysis toolkit. [[Code](https://github.com/TadasBaltrusaitis/OpenFace)]
 - [WACV 2026] **Exploring Automated Recognition of Instructional Activity from Classroom Data** | [[Paper](https://arxiv.org/pdf/2512.00087v1)]
-- [Arxiv 2025.11] **Detecting Emotional Dynamic Trajectories: Evaluation for Emotional Support** | [[Paper](https://arxiv.org/pdf/2511.09003v1)] [[Project](https://ruochoxio.github.io/ETrajEval/)]
+- [Arxiv 2025.11] **Detecting Emotional Dynamic Trajectories: Evaluation for Emotional Support** | [[Paper](https://arxiv.org/pdf/2511.09003v1)] [[Code](https://ruochoxio.github.io/ETrajEval/)]
 - [Arxiv 2025.03] **Automated UX Insights from User Research Videos (Facial + Sentiment)** | [[Paper](https://arxiv.org/pdf/2503.22510v1)]
 - [TVCG 2024] **Affective Visualization Design: Leveraging Emotional Impact of Data** | [[Paper](https://ieeexplore.ieee.org/document/10301796)]
 ### 🏆 MuSe Challenge Series
