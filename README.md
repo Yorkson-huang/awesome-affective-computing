@@ -79,13 +79,13 @@ This repository is a curated collection of research papers, datasets, and toolki
 | [TAC 2025] | **CoAffinity** | A Multimodal Dataset for Cognitive Load and Affect Assessment in Remote Collaboration | [[Paper](https://ieeexplore.ieee.org/abstract/document/10970421)] |
 | [TAC 2025] | **SEED-VII** | A Multimodal Dataset of Six Basic Emotions With Continuous Labels for Emotion Recognition | [[Paper](https://ieeexplore.ieee.org/document/10731546/)] [[Code](https://github.com/gx123412/SEED-VII/blob/main/README.md)] |
 | [TAC 2025] | **FEAD** | Introduction to the fNIRS-EEG Affective Database - Video Stimuli | [[Paper](https://ieeexplore.ieee.org/document/10542388)] [[Code](https://github.com/farniadb/dataset/tree/main)] |
-| [MER 2025] | **OV-MERD、MER-Caption+** | Multimodal Emotion Recognition Challenge 2025 | [[Dataset](https://huggingface.co/datasets/MERChallenge/MER2025)] |
+| [MER 2025] | **OV-MERD、MER-Caption+** | Multimodal Emotion Recognition Challenge 2025 | [[Data](https://huggingface.co/datasets/MERChallenge/MER2025)] |
 | [Arxiv 2025.06] | **MMME** | Spontaneous Multi-Modal Micro-Expression (Visual-Physiological) | [[Paper](https://arxiv.org/pdf/2506.09834v2)] [[Code](https://github.com/Mac0504/MMME)] |
 | [Arxiv 2025.03] | **EVA-MED** | Enhanced Valence-Arousal Multimodal Emotion Dataset | [[Paper](https://arxiv.org/pdf/2503.16584v1)] |
 | [ACL 2025] | **ACE** | Akan Cinematic Emotions Dataset for Low-resource Languages | [[Paper](https://arxiv.org/abs/2502.10973)] [[Code](https://github.com/sasudavid/AkaCE)] |
-| [2024] | **MER2024** | Multimodal Emotion Recognition Challenge 2024 | [[Dataset](https://huggingface.co/datasets/MERChallenge/MER2024)] |
+| [2024] | **MER2024** | Multimodal Emotion Recognition Challenge 2024 | [[Data](https://huggingface.co/datasets/MERChallenge/MER2024)] |
 | [TVCG 2024] | **An Immersive and Interactive VR Dataset to Elicit Emotions** | |[[Paper](https://ieeexplore.ieee.org/document/10670431)] |
-| [2023] | **MER2023** | Multimodal Emotion Recognition Challenge 2023 | [[Dataset](https://huggingface.co/datasets/MERChallenge/MER2023)] |
+| [2023] | **MER2023** | Multimodal Emotion Recognition Challenge 2023 | [[Data](https://huggingface.co/datasets/MERChallenge/MER2023)] |
 | [TVCG 2023] | **HEADSET** | Human Emotion Awareness under Partial Occlusions | [[Paper](https://ieeexplore.ieee.org/document/10269730)] |
 | [TPAMI 2023] | **EgoCom** | Multi-Person Multimodal Egocentric Communications Dataset | [[Paper](https://ieeexplore.ieee.org/document/9200754)] |
 | [TPAMI 2023] | **CAS(ME)3** | Spontaneous Micro-Expression Database with Depth Information | [[Paper](https://doi.org/10.1109/TPAMI.2022.3174895)] |
@@ -93,10 +93,10 @@ This repository is a curated collection of research papers, datasets, and toolki
 | [Arxiv 2022.05] | **M3ED** | Multi-modal Multi-scene Multi-label Emotional Dialogue | [[Paper](https://arxiv.org/abs/2205.10237)] |
 | [2020] | **CH-SIMS** | Chinese Single- and Multi-modal Sentiment Dataset | [[Paper](https://aclanthology.org/2020.acl-main.343/)] [[Code](https://github.com/thuiar/MMSA)] |
 | [2019] | **MUStARD** | Multimodal Utterances for Sarcasm and Irony | [[Paper](https://aclanthology.org/P19-1455/)] [[Code](https://github.com/Himanshu-sudo/MUStARD-dataset)] |
-| [2018] | **CMU-MOSEI** | Large-scale Dataset for Sentiment and Emotion Intensity | [[Dataset](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/)][[Paper](https://aclanthology.org/P18-1208.pdf)] |
+| [2018] | **CMU-MOSEI** | Large-scale Dataset for Sentiment and Emotion Intensity | [[Data](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/)][[Paper](https://aclanthology.org/P18-1208.pdf)] |
 | [2018] | **MELD** | Multimodal EmotionLines Dataset (Friends TV show) | [[Paper](https://arxiv.org/pdf/1810.02508)] [[Code](https://github.com/declare-lab/MELD)] |
 | [2018] | **PMEmo** | Music Emotion Recognition with Physiological Signals | [[Paper](https://dl.acm.org/doi/10.1145/3206025.3206037)] [[Code](https://github.com/HuiZhangDB/PMEmo)] |
-| [2017] | **CMU-MOSI** | Large-scale Dataset for Sentiment and Emotion Intensity  | [[Code](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK)][Paper](https://aclanthology.org/D17-1115.pdf) |
+| [2017] | **CMU-MOSI** | Large-scale Dataset for Sentiment and Emotion Intensity  | [[Data](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK)][[Paper](https://aclanthology.org/D17-1115.pdf)] |
 | [2017] | **SEED-IV** | EEG Dataset for Emotion Recognition (SJTU) | [[Code](https://bcmi.sjtu.edu.cn/~seed/seed.html)] |
 | [2015] | **SEED** | EEG Dataset for Emotion Recognition (SJTU) | [[Code](https://bcmi.sjtu.edu.cn/~seed/seed.html)] |
 | [2011] | **DEAP** | Dataset for Emotion Analysis using Physiological signals | [[Paper](https://ieeexplore.ieee.org/document/5871728)] |
