@@ -102,7 +102,7 @@ This repository is a curated collection of research papers, datasets, and toolki
 | [Arxiv 2025.05] | **EmotionHallucer** | Evaluating Emotion Hallucinations in MLLMs | [[Paper](https://arxiv.org/pdf/2505.11405v1)] [[Code](https://github.com/xxtars/EmotionHallucer)] |
 | [Arxiv 2025.02] | **EmoBench-M** | Benchmarking Emotional Intelligence for Multimodal LLMs | [[Paper](https://arxiv.org/pdf/2502.04424v1)] [[Project](https://emo-gml.github.io/)] |
 | [ICML 2025] | **EMMA** | An Enhanced MultiModal ReAsoning Benchmark | [[Paper](https://arxiv.org/pdf/2501.05444v1)] [[Project](https://emma-benchmark.github.io/)] |
-| [Arxiv 2024.02] | **EmoBench** | Benchmarking Emotional Intelligence for Large Language Models | [[Paper](https://arxiv.org/pdf/2402.12071)] |
+| [Arxiv 2024.02] | **EmoBench** | Benchmarking Emotional Intelligence for Large Language Models | [[Paper](https://arxiv.org/pdf/2402.12071)][[Project](https://github.com/Sahandfer/EmoBench)] |
 | [Arxiv 2024.01] | **MER-Bench** | A Unified Evaluation Benchmark for Multimodal Emotion Recognition | [[Paper](https://arxiv.org/pdf/2401.03429)] [[Code](https://github.com/zeroQiaoba/MERTools)] |
 | [Arxiv 2023.12] | **EQ-Bench** | A Benchmark for Emotional Intelligence in LLMs | [[Paper](https://arxiv.org/pdf/2312.06281)] [[Leaderboard](https://eqbench.com/)] |
 | [ECCV 2024] | **Affective Visual Dialog** | Large-Scale Benchmark for Emotional Reasoning (2023.08) | [[Paper](https://arxiv.org/pdf/2308.16349)] [[Project](https://affective-visual-dialog.github.io/)] |
